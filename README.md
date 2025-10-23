@@ -1,5 +1,5 @@
  - 👋 Hi, I’m @anshu1198  
-- 🎓 B.Tech 2nd Year Student | Graduating in 2027  
+- 🎓 B.Tech 3rd Year Student | Graduating in 2027  
 - 👀 I’m interested in Artificial Intelligence, Software Development  
 - 🌱 I’m currently learning Web Development, DBMS, Python  
 - 💻 I have experience with C, C++, Data Structures, Algorithms, Data Analysis  
