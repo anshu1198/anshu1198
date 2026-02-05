@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Anshu Shah 👋</h1>
+<h1>Hi, I'm Anshu Shah 👋</h1>
 
-<p align="center">
+<p>
 🎓 B.Tech Computer Science & Engineering (Data Science) Student <br>
 📊 Aspiring Data Analyst | Product Analyst | Business Analyst <br>
 📍 India 
