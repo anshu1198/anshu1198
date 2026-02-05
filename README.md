@@ -1,5 +1,4 @@
-<h1>Hi, I'm Anshu Shah 👋</h1>
-
+<h3>Hi, I'm Anshu Shah 👋</h3>
 <p>
 🎓 B.Tech Computer Science & Engineering (Data Science) Student<br>
 📊 Aspiring Data Analyst | Product Analyst | Business Analyst<br>
@@ -8,10 +7,7 @@
 
 <h3>🚀 About Me</h3>
 <p>
-I am a Computer Science student specializing in Data Science, with a strong interest in <b>data analysis, business insights, and decision-driven analytics</b>. I enjoy working with structured data, identifying patterns, and transforming raw information into clear, actionable insights that support business and product decisions.
-</p>
-<p>
-I am currently strengthening my skills through academic and self-driven projects and actively seeking <b>internship and entry-level opportunities</b> in Data Analysis, Product Analytics, and Business Analytics roles.
+I am a Computer Science student specializing in Data Science with a strong interest in data analysis, business insights, and decision-driven analytics. I enjoy working with structured data, identifying patterns, and transforming it into clear, actionable insights that support business and product decisions.
 </p>
 
 <h3>🛠️ Technical Skills</h3>
@@ -25,10 +21,3 @@ I am currently strengthening my skills through academic and self-driven projects
 
 <h3>🎯 Roles I’m Targeting</h3>
 <p>Data Analyst · Product Analyst · Business Analyst · Analytics Intern</p>
-
-<h3>📌 Current Focus</h3>
-<ul>
-<li>Strengthening Python & SQL for analytics</li>
-<li>Learning data-driven business problem solving</li>
-<li>Building analytics-focused real-world projects</li>
-</ul>
