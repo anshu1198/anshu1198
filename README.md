@@ -1,40 +1,34 @@
 <h1>Hi, I'm Anshu Shah 👋</h1>
 
 <p>
-🎓 B.Tech Computer Science & Engineering (Data Science) Student <br>
-📊 Aspiring Data Analyst | Product Analyst | Business Analyst <br>
-📍 India 
+🎓 B.Tech Computer Science & Engineering (Data Science) Student<br>
+📊 Aspiring Data Analyst | Product Analyst | Business Analyst<br>
+📍 India
 </p>
 
----
+<h3>🚀 About Me</h3>
+<p>
+I am a Computer Science student specializing in Data Science, with a strong interest in <b>data analysis, business insights, and decision-driven analytics</b>. I enjoy working with structured data, identifying patterns, and transforming raw information into clear, actionable insights that support business and product decisions.
+</p>
+<p>
+I am currently strengthening my skills through academic and self-driven projects and actively seeking <b>internship and entry-level opportunities</b> in Data Analysis, Product Analytics, and Business Analytics roles.
+</p>
 
-## 🚀 About Me
-I am a Computer Science student specializing in Data Science, with a strong interest in **data analysis, business insights, and decision-driven analytics**. I enjoy working with structured data, identifying patterns, and transforming raw information into clear, actionable insights that support business and product decisions.
+<h3>🛠️ Technical Skills</h3>
+<ul>
+<li><b>Programming:</b> Python, SQL</li>
+<li><b>Analytics:</b> Data Analysis, Exploratory Data Analysis</li>
+<li><b>Libraries & Tools:</b> Pandas, NumPy</li>
+<li><b>Databases:</b> MySQL</li>
+<li><b>Web Basics:</b> HTML, CSS, JavaScript</li>
+</ul>
 
-I am currently strengthening my skills through academic and self-driven projects, and I am actively seeking **internship and entry-level opportunities** in **Data Analysis, Product Analytics, and Business Analytics** roles.
+<h3>🎯 Roles I’m Targeting</h3>
+<p>Data Analyst · Product Analyst · Business Analyst · Analytics Intern</p>
 
----
-
-## 🛠️ Technical Skills
-- **Programming:** Python, SQL  
-- **Data Science:** Data Analysis, Machine Learning 
-- **Libraries & Tools:** Pandas, NumPy  
-- **Databases:** MySQL  
-- **Web Basics:** HTML, CSS, JavaScript  
-
----
-
-## 🎯 Roles I’m Targeting
-- Data Analyst  
-- Product Analyst  
-- Business Analyst  
-- Analytics Intern  
-
----
-
-## 📌 Current Focus
-- Strengthening Python & SQL for analytics  
-- Learning data-driven business problem solving  
-- Building analytics-focused real-world projects  
-
- ---
+<h3>📌 Current Focus</h3>
+<ul>
+<li>Strengthening Python & SQL for analytics</li>
+<li>Learning data-driven business problem solving</li>
+<li>Building analytics-focused real-world projects</li>
+</ul>
