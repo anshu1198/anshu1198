@@ -1,23 +1,34 @@
 <h3>Hi, I'm Anshu Shah 👋</h3>
 <p>
-🎓 B.Tech Computer Science & Engineering (Data Science) Student<br>
-📊 Aspiring Data Analyst | Product Analyst | Business Analyst<br>
+🎓 B.Tech CSE (Big Data Analytics) | SRM University AP, 2027
+📊 Data Analyst | Product Analyst | Business Analyst
 📍 India
 </p>
 
 <h3>🚀 About Me</h3>
 <p>
-I am a Computer Science student specializing in Data Science with a strong interest in data analysis, business insights, and decision-driven analytics. I enjoy working with structured data, identifying patterns, and transforming it into clear, actionable insights that support business and product decisions.
+I am a Computer Science student specializing in Big Data Analytics with hands-on 
+experience building ML models, data dashboards, and full-stack applications. 
+I've worked on fraud detection systems, seismic risk classification, and 
+ride-sharing platforms — turning raw data into actionable insights and 
+business-ready solutions.
 </p>
 
-<h3>🛠️ Technical Skills</h3>
-<ul>
-<li><b>Programming:</b> Python, SQL</li>
-<li><b>Analytics:</b> Data Analysis, Exploratory Data Analysis</li>
-<li><b>Libraries & Tools:</b> Pandas, NumPy</li>
-<li><b>Databases:</b> MySQL</li>
-<li><b>Web Basics:</b> HTML, CSS, JavaScript</li>
-</ul>
+### 🛠️ Technical Skills
 
-<h3>🎯 Roles I’m Targeting</h3>
-<p>Data Analyst · Product Analyst · Business Analyst · Analytics Intern</p>
+- **Programming:** Python, SQL, JavaScript, Java
+- **Data Analytics & ML:** Pandas, NumPy, Scikit-learn, EDA, Random Forest, Data Visualization
+- **Web Development:** React, Node.js, Express.js, REST APIs
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools:** Git, GitHub, Streamlit, Jupyter Notebook, VS Code
+
+### 🚀 Featured Projects
+
+- **[FraudX](https://github.com/anshu1198/FraudX-Real-Time-Credit-Card-Fraud-Detection)** — Real-time credit card fraud detection using Random Forest, 88%+ accuracy on 284K+ transactions, with an interactive Streamlit dashboard
+- **[Seismic Hazard Mapping](https://github.com/anshu1198/Seismic-Hazard-Mapping)** — ML classification model for seismic risk prediction with SMOTE-based imbalance handling on 23K+ records
+- **[Yatri](https://github.com/anshu1198/Yatri-Ride-Share)** — Full-stack MERN ride-sharing platform with JWT authentication and REST APIs
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshu-shah-b24275291/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anshushah0113@gmail.com)
